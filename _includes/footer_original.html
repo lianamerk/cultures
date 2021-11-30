@@ -1,0 +1,55 @@
+
+
+<!-- The footer at the very bottom of the screen -->
+<footer class="footer section-padding">
+  <div class="grid">
+    <div class="subscribe" id="subscribe">
+      <div class="subscribe__container">
+        <span class="subscribe__title">Subscribe</span>
+        <p class="subscribe__text">Get a weekly email of posts I’ve added to the site.</p>
+        {% include subscribe-form.html %}
+      </div>
+    </div>
+
+    <hr class="sep--white"/>
+
+    <div class="footer__container">
+      {% tags_list :threshold => 1, :sort_by => count, :order_by => desc, :limit => 5 %}
+
+      {% include social.html %}
+    </div>
+  </div>
+</footer>
+
+{% include contact.html %}
+
+{% if paginator.next_page %}
+  <script>
+    var maxPages = parseInt('{{ paginator.total_pages }}');
+  </script>
+{% endif %}
+
+<script src="{{ '/assets/js/app.min.js' | prepend: site.baseurl }}"></script>
+
+
+
+
+
+
+into subscribe form
+
+<form method="POST" action="{{ site.mailchimp_action }}&amp;c=?" id="mc-signup" name="mc-embedded-subscribe-form" novalidate>
+  <!-- This is required for the form to work correctly -->
+  <div style="position: absolute; left: -5000px;" aria-hidden="true">
+    <input type="text" name="{{ site.mailchimp_input }}" tabindex="-1" value="">
+  </div>
+
+  <div class="form-group">
+    <input id="mce-EMAIL" type="email" name="EMAIL" placeholder="Email Address">
+  </div>
+  <div class="form__btn">
+    <input id="mc-submit" type="submit" value="Sign Up" name="subscribe">
+  </div>
+</form>
+
+<p class="subscribe__error hidden"></p>
