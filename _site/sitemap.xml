@@ -11,6 +11,9 @@
 <loc>http://localhost:4000/cultures/about/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/cultures/itinerary/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/cultures/subscribe/</loc>
 </url>
 <url>
