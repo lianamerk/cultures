@@ -5,6 +5,10 @@
 <lastmod>2021-11-29T00:00:00+01:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/cultures/2021/12/05/first-week/</loc>
+<lastmod>2021-12-05T00:00:00+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/cultures/404</loc>
 </url>
 <url>
@@ -24,5 +28,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/cultures/tag/transit/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/cultures/tag/france/</loc>
 </url>
 </urlset>
