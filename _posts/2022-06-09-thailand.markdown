@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thailand Update"
+title: "Thailand"
 date: 2022-06-09
 description: 
 image: /cultures/assets/images/20220609/img0.jpeg
