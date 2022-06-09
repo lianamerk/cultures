@@ -3,7 +3,7 @@ layout: post
 title: "Thailand Update"
 date: 2022-06-09
 description: 
-image: /cultures/assets/images/20220209/img0.jpeg
+image: /cultures/assets/images/20220609/img0.jpeg
 author: Liana Merk
 tags:
   - Thailand
