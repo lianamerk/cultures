@@ -1,0 +1,14 @@
+---
+layout: post
+title: "India"
+date: 2022-02-01
+description: 
+image: /cultures/assets/images/20220201/img0.jpeg
+author: Liana Merk
+tags:
+  - India
+---
+
+Hello!
+
+I am partnering with Qiagen on my labwork, and have some blog contents on their site! Here's a link to <a href="https://www.qiagen.com/us/knowledge-and-support/knowledge-hub/science-matters/microbiome/liana-merk/liana-merk-january-2022" target="_blank">January in India</a>!
