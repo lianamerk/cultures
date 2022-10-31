@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Iceland"
+date: 2022-07-20
+description: 
+image: /cultures/assets/images/20220720/img0.jpg
+author: Liana Merk
+tags:
+  - Iceland
+---
+
+## Next stop: Iceland 
+
+<a href="https://www.qiagen.com/us/knowledge-and-support/knowledge-hub/science-matters/microbiome/liana-merk/united-kingdom" target="_blank">This post</a> is also located on the Qiagen site!
