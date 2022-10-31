@@ -3,7 +3,7 @@ layout: post
 title: "Switzerland"
 date: 2022-10-30
 description: 
-image: /cultures/assets/images/20221030/img0.jpg#full
+image: /cultures/assets/images/20221030/img0.jpg
 author: Liana Merk
 tags:
   - Switzerland
@@ -85,7 +85,7 @@ During the weekends, I traveled all around Switzerland and surrounding areas. I 
 
 
 #### Matterhorn
-<img style="max-width: 1000px; max-height: 500px" src="/cultures/assets/images/20221030/Matterhorn.jpeg"/>
+<img style="max-width: 1000px; max-height: 500px" src="/cultures/assets/images/20221030/matterhorn.jpeg"/>
 
 
 #### One of Switzerland's famous trains, the eight hour Glacier Express
