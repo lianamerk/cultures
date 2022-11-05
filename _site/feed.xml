@@ -6,9 +6,9 @@
 </description>
     <link>/cultureshttp://localhost:4000</link>
     <atom:link href="http://localhost:4000/cultures/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 31 Oct 2022 00:52:54 -0400</pubDate>
-    <lastBuildDate>Mon, 31 Oct 2022 00:52:54 -0400</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
+    <pubDate>Sat, 05 Nov 2022 13:03:09 -0400</pubDate>
+    <lastBuildDate>Sat, 05 Nov 2022 13:03:09 -0400</lastBuildDate>
+    <generator>Jekyll v4.3.1</generator>
     
       <item>
         <title>Switzerland</title>
@@ -94,7 +94,7 @@
 &lt;p&gt;&lt;img style=&quot;max-width: 1000px; max-height: 660px&quot; src=&quot;/cultures/assets/images/20221030/CM.JPG&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;matterhorn&quot;&gt;Matterhorn&lt;/h4&gt;
-&lt;p&gt;&lt;img style=&quot;max-width: 1000px; max-height: 500px&quot; src=&quot;/cultures/assets/images/20221030/Matterhorn.jpeg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;max-width: 1000px; max-height: 500px&quot; src=&quot;/cultures/assets/images/20221030/matterhorn.jpeg&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;one-of-switzerlands-famous-trains-the-eight-hour-glacier-express&quot;&gt;One of Switzerland’s famous trains, the eight hour Glacier Express&lt;/h4&gt;
 &lt;p&gt;&lt;img style=&quot;max-width: 1000px; max-height: 500px&quot; src=&quot;/cultures/assets/images/20221030/glacier.jpeg&quot; /&gt;&lt;/p&gt;
@@ -324,7 +324,7 @@
 
 &lt;blockquote&gt;
   &lt;p&gt;“If you never do anything, then you will never make any stupid mistakes.”&lt;/p&gt;
-  &lt;cite&gt;La Cabane en Ville's Waiter's mom&lt;/cite&gt;
+  &lt;cite&gt;La Cabane en Ville&apos;s Waiter&apos;s mom&lt;/cite&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Thank you, waiter man, I think that will now be my motto for pushing myself to try new things this year!&lt;/p&gt;

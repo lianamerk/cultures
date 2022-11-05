@@ -48,9 +48,6 @@
 <loc>http://localhost:4000/cultures/subscribe/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/cultures/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/cultures/tag/transit/</loc>
 </url>
 <url>
